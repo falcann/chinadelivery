@@ -1,0 +1,340 @@
+body {
+    background-color: #78736a;
+}
+
+.top {
+    position: absolute;
+}
+
+.topp{
+    background: url(/logo.png);
+}
+
+/* .top {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #9D9D9D;
+    padding: 20px;
+} */
+
+.item {
+    padding: 30px;
+    text-decoration: none;
+    color: #180A0A;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Caveat', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+
+}
+
+.logo {
+    margin-right: auto;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.one {
+    margin-left:  280px;
+    font-size: 25px;
+}
+
+.two {
+    margin-left: 180px;
+    font-size: 25px;
+}
+
+.three {
+    margin-left: 160px;
+    font-size: 25px;
+}
+
+.icon {
+    color: #180A0A;
+    font-size: 30px;
+    margin-right: 30px;
+}
+
+.china {
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 430px;
+    font-size: 70px;
+    color:#180A0A;
+    font-family: 'Caveat', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+    /* color: transparent;
+    -webkit-background-clip: text;
+    /* background-clip: text; */
+    /* -webkit-text-fill-color: transparent;
+    background-image: linear-gradient(to black, white); */ 
+}
+
+.first-pic {
+    display: flex;
+    justify-content: center;
+    background: url(/clothes3.webp);
+}
+
+
+
+/* .top {
+    display: flex;
+} */
+.heading {
+    margin-left: 500px;
+    margin-top: 150px;
+    font-size: 50px;
+    color: #e6e0d5;
+}
+
+.p1 {
+    font-size: 30px;
+    color: #e6e0d5;
+    margin-left: 60px;
+}
+
+.onep {
+    margin-left: 100px;
+}
+
+.prada {
+    margin-top: 300px;
+    width: 410px;
+    margin-left: 40px;
+    height: 270px;
+}
+
+.hm {
+    margin-top: 100px;
+    width: 410px;
+    margin-left: 40px;
+    height: 270px;
+}
+
+.nike {
+    margin-top: 100px;
+    width: 410px;
+    margin-left: 40px;
+    height: 270px;
+}
+
+.stuff {
+    font-size: 35px;
+    color: #e6e0d5;
+    margin-left: 60px;
+    margin-top: 70px;
+}
+
+.stuff2 {
+    font-size: 30px;
+    color: #e6e0d5;
+    margin-left: 100px;
+}
+
+.stuff3{
+    font-size: 30px;
+    color: #e6e0d5;
+    margin-left: 100px;
+}
+
+.imgbrand {
+    background: url(/prada.webp);
+    background: url(/h&m.webp);
+    background: url(/nike.webp)
+}
+
+.tovar {
+    background: url(/bearbrick.webp);
+    background: url(/playstation.webp);
+    background: url(/apple.webp);
+}
+
+.bear {
+    width: 340px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.play {
+    width: 340px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.apple {
+    width: 340px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.our {
+    font-size: 34px;
+    color: #e6e0d5;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+
+.our2{
+    font-size: 30px;
+    color: #e6e0d5;
+    margin-top: 8px;
+    margin-left: 25px;
+    line-height: 2;
+}
+
+.del{
+    background: url(/del.webp);
+}
+
+.del2 {
+    margin-top: 200px;
+    margin-left: 40px;
+}
+
+.etaps {
+    font-size: 34px;
+    color: #e6e0d5;
+    margin-top: -600px;
+    margin-left: 800px;
+}
+
+.list {
+    font-size: 30px;
+    color: #e6e0d5;
+    margin-top: 8px;
+    margin-left: 600px;
+    margin-right: 20px;
+}
+
+hr {
+    background-color: #e6e0d5;
+    margin-top: 100px;
+}
+
+.que {
+    font-size: 30px;
+    color: #e6e0d5;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+
+.hard {
+    font-size: 25px;
+}
+
+.answer {
+    font-size: 30px;
+    color: #e6e0d5;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+
+.good {
+    font-size: 40px;
+    color: #e6e0d5;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+
+#contacts {
+    background-color:#e6e0d5;
+    width: 1380px;
+    padding: 20px;
+    margin-top: 100px;
+}
+
+.link {
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+
+/* @media all and (max-width: 500px) {
+    .top-new {
+        object-fit: cover;
+    }
+    /* .top a.icon{
+        float: right;
+        margin-top: -17px;
+        display: block;
+        color: #180A0A;
+        font-size: 25px;
+    } */
+
+    /* .top {
+        display: flex;
+        font-size: 30px;
+        margin-right: 5px;
+    }
+
+    .logo {
+        width: 80px;
+        height: 40px;
+    }
+
+    .item {
+        position: absolute;
+        margin-right: 2px;
+        font-size: 15px;
+    }
+
+    .one{
+        margin-right: 10px;
+    }
+
+    .two {
+        margin-right: 5px;
+    }
+
+    .prada {
+        margin-top: 40px;
+        margin-left: 8px;
+        width: 320px;
+    }
+
+    .hm {
+        margin-left: 8px;
+        width: 320px;
+    }
+
+    .nike {
+        margin-left: 8px;
+        width: 320px;
+    }
+
+
+    .topdiv {
+        position: relative;
+        margin-top: 50px;
+        
+    }
+
+    .heading {
+        position: absolute;
+        margin-left: 40px;
+        margin-top: -100px;
+        font-size: 35px;
+    }
+
+    .p1{
+        margin-top: 120px;
+        margin-left: 2px;
+        font-size: 18px;
+    }
+
+    .onep {
+        margin-top: 20px;
+        font-size: 18px;
+
+    } */
+
+
